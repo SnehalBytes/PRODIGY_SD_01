@@ -12,22 +12,18 @@ Easy-to-use command-line interface 💻
 
 Displays results with two decimal precision 🎯
 
-🛠️ How to Use
-Run the program.
+## 🛠️ How to Use
 
-Enter the temperature value you want to convert. 🌡️
+1. Run the program.
+2. Enter the temperature value you want to convert. 🌡️
+3. Enter the unit of the temperature:
+   - `c` for Celsius
+   - `f` for Fahrenheit
+   - `k` for Kelvin
+4. Get the converted temperatures instantly! ⚡
 
-Enter the unit of the temperature:
+## 💡 Example
 
-c for Celsius
-
-f for Fahrenheit
-
-k for Kelvin
-
-Get the converted temperatures instantly! ⚡
-
-💡 Example
 rust
 Copy
 Edit
