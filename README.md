@@ -1,4 +1,4 @@
-#🌡️ Temperature Converter
+**🌡️ Temperature Converter**
 A simple Java program to convert temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K)! 🔥❄️🌍
 
 🚀 Features
