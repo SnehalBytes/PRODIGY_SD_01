@@ -24,11 +24,9 @@ Displays results with two decimal precision 🎯
 
 ## 💡 Example
 
-rust
-Copy
-Edit
 Enter the temperature value: 100
 Enter the unit (c for Celsius, f for Fahrenheit, k for Kelvin): c
+
 Fahrenheit: 212.00
 Kelvin: 373.15
 
