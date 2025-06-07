@@ -24,11 +24,12 @@ Displays results with two decimal precision 🎯
 
 ## 💡 Example
 
-Enter the temperature value: 100
-Enter the unit (c for Celsius, f for Fahrenheit, k for Kelvin): c
+- Enter the temperature value: 100
+- Enter the unit (c for Celsius, f for Fahrenheit, k for Kelvin): c
+- Fahrenheit: 212.00
+- Kelvin: 373.15
 
-Fahrenheit: 212.00
-Kelvin: 373.15
+I want to add this in readme.md file in github make it easier to write and attractive
 
 ## 📚 Technologies
 
